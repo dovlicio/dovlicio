@@ -16,8 +16,11 @@
 </div>
 
 ---
+### :woman_technologist: About Me :
+My name is Vladimir Damnjanovic, softvare engineer student at 42 Vienna in Austria. 🇦🇹
+I am 25 years old and i am from Serbia. 🇷🇸
 
-
+---
 <!--
 **dovlicio/dovlicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
