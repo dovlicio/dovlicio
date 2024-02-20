@@ -8,7 +8,7 @@
   <h1>
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I am Softvare Engineer student at 42 Vienna
+    I am Software Engineer student at 42 Vienna
   </h1>
 </div>
 <div align="center">
@@ -17,7 +17,7 @@
 
 ---
 ### :woman_technologist: About Me :
-- My name is Vladimir Damnjanovic, softvare engineer student at 42 Vienna in Austria. 🇦🇹
+- My name is Vladimir Damnjanovic, software engineer student at 42 Vienna in Austria. 🇦🇹
 - I am 25 years old and i am from Serbia. 🇷🇸
 
 ---
