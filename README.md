@@ -17,8 +17,8 @@
 
 ---
 ### :woman_technologist: About Me :
-My name is Vladimir Damnjanovic, softvare engineer student at 42 Vienna in Austria. 🇦🇹
-I am 25 years old and i am from Serbia. 🇷🇸
+- My name is Vladimir Damnjanovic, softvare engineer student at 42 Vienna in Austria. 🇦🇹
+- I am 25 years old and i am from Serbia. 🇷🇸
 
 ---
 <!--
