@@ -18,9 +18,10 @@
 ---
 ### :woman_technologist: About Me :
 - My name is Vladimir Damnjanovic, software engineer student at 42 Vienna in Austria 🇦🇹
-- I am 25 years old and I am from Serbia 🇷🇸
-- 🔭 In 42 school I’m currently evaluating "minishell" project and starting to work on "Cub3D" game project 
-- ⚡ In my free time, I solve problems on leetcode and code war
+- I am 26 years old and I am from Serbia 🇷🇸
+- Curently living and working in Belagrade, Serbia 🇷🇸
+- 🔭 In 42 school I’m currently evaluating my c++ projects.
+- ⚡ In my free time, I solve problems on leetcode and code war.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
