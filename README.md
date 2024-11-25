@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 - My name is Vladimir Damnjanovic, software engineer student at 42 Vienna in Austria 🇦🇹
 - I am 26 years old and I am from Serbia 🇷🇸
-- Curently living and working in Belagrade, Serbia 🇷🇸
+- Curently living and working in Belgrade, Serbia 🇷🇸
 - 🔭 In 42 school I’m currently evaluating my c++ projects.
 - ⚡ In my free time, I solve problems on leetcode and code war.
 ---
