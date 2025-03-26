@@ -6,9 +6,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=dovlicio&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi
+    Hi,
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Welcome to my journey of becoming a full stack web developer
+    welcome to my journey of becoming a full-stack web developer!
   </h1>
 </div>
 <div align="center">
