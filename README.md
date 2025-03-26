@@ -8,7 +8,7 @@
   <h1>
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I am Software Engineer student at 42 Vienna
+    Welcome to my journey of becoming a full stack web developer
   </h1>
 </div>
 <div align="center">
