@@ -19,9 +19,9 @@
 ### :woman_technologist: About Me :
 - My name is Vladimir Damnjanović, I'm 26 years old, and I'm from Serbia 🇷🇸
 - Currently living and working in Belgrade, Serbia 🇷🇸
-- 🔭 I spent six months at 42 Vienna coding school, coding every day for at least 10 hours. It was a wonderful experience! :)
+- I spent six months at 42 Vienna coding school, coding every day for at least 10 hours. It was a wonderful experience! :)
 - Unfortunately, my journey at 42 Vienna came to an end due to visa issues and my job in Belgrade.
-- Now, in my free time—which I don’t have much of—I’m learning more about web development and practicing HTML, CSS, and JavaScript.
+- Now, in my free time which I don’t have much of I’m learning more about web development and practicing HTML, CSS, and JavaScript.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
